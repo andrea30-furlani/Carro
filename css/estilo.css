@@ -1,0 +1,51 @@
+div#layout{
+    margin: auto;
+    width: 500px;
+    height: 700px;
+    background-color:rgba(139, 164, 200, 0.568);
+}
+*{
+font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+background-color: rgb(123, 149, 156);
+padding: 30px;
+
+}
+header ul li{
+    display:inline-block;
+    height: 100px;
+}
+header ul li a{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin: 10px;
+}
+
+#eco a{
+    color: rgb(255, 60, 0);
+    
+}
+
+#car a{
+    color: rgb(47, 0, 255);
+}
+
+#esp a{
+    color: chartreuse;
+}
+
+#pet a{
+    color: rgb(255, 115, 0);
+}
+  
+#divesq{
+    float: left;
+}
+
+#divesq{
+    float: right;
+}
+
